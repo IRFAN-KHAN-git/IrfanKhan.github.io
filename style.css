@@ -9,9 +9,9 @@ html,body{
     width: 100%;
     height: 100%;
 }
-a {
-  color: white ;
-  text-decoration: none; 
+a{
+ color: white;
+ text-decoration: none;
 }
 #mincircle{
     transition: cubic-bezier(0.19, 1, 0.22, 1) 1s;
@@ -50,10 +50,7 @@ a {
     padding: 20px 40px;
    
 }
-#nav a{
-    text-decoration: none;
-    font-size: 18px;
-  color: #fff; 
+
 
 }
 #heding{
@@ -106,10 +103,7 @@ a {
     display: flex;  
     font-size: 1vw;
 }
-#last a{
-    color: #fff;
-    text-decoration: none;
-}
+
 
 #second{ color: #fff;
     padding-top: 200px;
